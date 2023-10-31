@@ -76,40 +76,40 @@ vvvv = input('''\033[1;34m
 if vvvv =='':
    os.system('python Dragon-Tool.py')
 elif vvvv =="1":
-     os.system("python 1.py")
+     os.system("python3 1.py")
 elif vvvv =="2":
-     os.system("python 2.py")
+     os.system("python3 2.py")
 elif vvvv =="3":
-     os.system("python 3.py")
+     os.system("python3 3.py")
 elif vvvv =="4":
-     os.system("python 4.py")
+     os.system("python3 4.py")
 elif vvvv =="5":
-     os.system("python 5.py")
+     os.system("python3 5.py")
 elif vvvv =="6":
-     os.system("python 6.py")
+     os.system("python3 6.py")
 elif vvvv =="7":
      os.system("bash 7.sh")
 elif vvvv =="8":
-     os.system("python 8.py")
+     os.system("python3 8.py")
 elif vvvv =="9":
-     os.system("python 9.py")
+     os.system("python3 9.py")
 elif vvvv =="10":
-     os.system("python 10.py")
+     os.system("python3 10.py")
 elif vvvv =="11":
-     os.system("python 11.py")
+     os.system("python3 11.py")
 elif vvvv =="12":
-     os.system("python 12.py")
+     os.system("python3 12.py")
 elif vvvv =="13":
-     os.system("python 13.py")
+     os.system("python3 13.py")
 elif vvvv =="13":
-     os.system("python 14.py")
+     os.system("python3 14.py")
 elif vvvv =="14":
      os.system("cd")
      os.system("sh termux-ngrok.sh")
 elif vvvv =="15":
-     os.system("python ngrok.py")
+     os.system("python3 ngrok.py")
 elif vvvv =="16":
-     os.system("python ins.py")
+     os.system("python3 ins.py")
 #elif vvvv =="17":
  #    os.system("bash ch.sh")
 elif vvvv =="00" :
